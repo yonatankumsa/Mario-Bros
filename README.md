@@ -1,6 +1,6 @@
 # Mario Maker
 
-A clone of mario maker made with no game engine, just with C++.
+As a fan of Mario Maker and a lover of coding, I took on the challenge of creating my own version of the game using C++. Unlike using a game engine, coding with C++ allowed me to have direct control over the game's code, resulting in a highly optimized and customized experience. My creation offers a unique twist on the classic Mario gameplay, delivering a personalized experience tailored to my vision. Building this from the ground up was a significant challenge, but it was worth it to bring my own take on the world of Mario to life. 
 
 ![img1](https://i.imgur.com/IP2vLyg.png)
 
